@@ -3,8 +3,8 @@ const baseDeDatos = [
     { 
         id: "NGOD-170", 
         titulo: "I Got Fingered By My Husband's Mean Boss...", 
-        poster: "https://appcine.b-cdn.net/imagenes%20codegg/iamgenes/1649409013.webp", 
-        bg: "https://appcine.b-cdn.net/imagenes%20codegg/iamgenes/ngod00170jp-13.jpg", 
+        poster: "https://pics.dmm.co.jp/mono/movie/adult/ngod170/ngod170pl.jpg", 
+        bg: "https://pics.dmm.co.jp/digital/video/ngod00170/ngod00170jp-13.jpg", 
         video: "https://appcine.b-cdn.net/Codegg/NGOD-170.mp4", 
         estudio: "Jet Eizo",
         fecha: "Apr. 08, 2022", 
