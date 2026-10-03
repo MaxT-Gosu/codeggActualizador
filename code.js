@@ -1375,4 +1375,15 @@ const baseDeDatos = [
         fecha: "Oct. 08, 2026",
         tags: "Reducing Mosaic"
     },
+    { 
+        id: "HARU-024", 
+        titulo: "Innocent And Cute Mugimuchi JK's Black Panty", 
+        poster: "https://appcine.b-cdn.net/imagenes%20codegg/iamgenes/710e0d6dd4.webp", 
+        bg: "https://appcine.b-cdn.net/imagenes%20codegg/iamgenes/vlcsnap-2026-10-03-07h44m57s751.png", 
+        video: "https://appcine.b-cdn.net/Codegg/Haru-024.mp4", 
+        estudio: "Shark",
+		actriz: "",
+        fecha: "Jul. 25, 2017",
+        tags: "Reducing Mosaic"
+    },
 ];
