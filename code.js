@@ -1397,4 +1397,15 @@ const baseDeDatos = [
         fecha: "2026-07-17",
         tags: "Reducing Mosaic"
     },
+	{ 
+        id: "CAWB-040", 
+        titulo: "This Woman Is So Sloppy It's Infuriating.", 
+        poster: "https://appcine.b-cdn.net/imagenes%20codegg/iamgenes/CAWB-040.jpg", 
+        bg: "https://appcine.b-cdn.net/imagenes%20codegg/iamgenes/CAWB-040.png", 
+        video: "https://appcine.b-cdn.net/Codegg/Cawb-040.mp4", 
+        estudio: "Kawaii",
+		actriz: "Satsuki Nao",
+        fecha: "2026-10-06",
+        tags: "Reducing Mosaic"
+    },
 ];
