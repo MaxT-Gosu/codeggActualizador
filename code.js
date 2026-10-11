@@ -1408,4 +1408,15 @@ const baseDeDatos = [
         fecha: "2026-10-06",
         tags: "Reducing Mosaic"
     },
+    { 
+        id: "FPRE-239", 
+        titulo: "Sharing A Room With My Female Boss!", 
+        poster: "https://appcine.b-cdn.net/imagenes%20codegg/iamgenes/FPRE-239.jpg", 
+        bg: "https://appcine.b-cdn.net/imagenes%20codegg/iamgenes/FPRE-239.png", 
+        video: "https://appcine.b-cdn.net/Codegg/Fpre-239.mp4", 
+        estudio: "Fitch",
+		actriz: "Kikuno Ran",
+        fecha: "2026-08-18",
+        tags: "Reducing Mosaic"
+    },
 ];
