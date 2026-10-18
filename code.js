@@ -1419,4 +1419,15 @@ const baseDeDatos = [
         fecha: "2026-08-18",
         tags: "Reducing Mosaic"
     },
+    { 
+        id: "FNS-260", 
+        titulo: "Anal-revealing Ass Fetish Brothel Paradise", 
+        poster: "https://appcine.b-cdn.net/imagenes%20codegg/iamgenes/FNS-260.jpg", 
+        bg: "https://appcine.b-cdn.net/imagenes%20codegg/iamgenes/FNS-260.png", 
+        video: "https://appcine.b-cdn.net/Codegg/Fns-260.mp4", 
+        estudio: "Faleno",
+		actriz: "Nene Yoshitaka",
+        fecha: "Oct. 08, 2026",
+        tags: "Reducing Mosaic"
+    },
 ];
