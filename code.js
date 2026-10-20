@@ -1431,16 +1431,5 @@ const baseDeDatos = [
         fecha: "Oct. 08, 2026",
         tags: "Reducing Mosaic"
     },
-    { 
-        id: "FLAV-428", 
-        titulo: "Nipples Are Bitten And Pinched, Moaning, Squirting", 
-        poster: "https://appcine.b-cdn.net/Codegg/FLAV-428/FLAV-428.webp", 
-        bg: "https://appcine.b-cdn.net/Codegg/FLAV-428/FLAV-428.png", 
-        video: "https://appcine.b-cdn.net/Codegg/FLAV-428/Flav-428.mp4",
-        preview: "https://appcine.b-cdn.net/Codegg/FLAV-428/FLAV-428-preview.mp4", 
-        estudio: "Digital Ark",
-		actriz: "Nene Yoshitaka",
-        fecha: "Sep. 22, 2026",
-        tags: "Reducing Mosaic"
-    },
+
 ];
