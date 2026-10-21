@@ -746,7 +746,7 @@ const baseDeDatos = [
         estudio: "Glory Quest",
 		actriz: "Miki Sunohara,Yuna Nagisa",
         fecha: "Apr. 07, 2026",
-        tags: "Reducing Mosaic,ts"
+        tags: "trans"
     },
 	{ 
         id: "FTHTD-199", 
@@ -838,14 +838,14 @@ const baseDeDatos = [
     },
 	{ 
         id: "NVH-077", 
-        titulo: "ransgender Reverse Anal Sex Saotome", 
+        titulo: "Transgender Reverse Anal Sex Saotome", 
         poster: "https://i.ibb.co/7xTj8Ctn/1776445825.webp", 
         bg: "https://i.ibb.co/99TL9fhs/vlcsnap-2026-05-07-16h16m12s679.png", 
         video: "https://appcine.b-cdn.net/Codegg/Nvh-077.mp4", 
         estudio: "Chika Saotome",
 		actriz: "Glory Quest",
         fecha: "Apr. 21, 2026",
-        tags: "Reducing Mosaic"
+        tags: "trans"
     },
 	{ 
         id: "CAWD-980", 
