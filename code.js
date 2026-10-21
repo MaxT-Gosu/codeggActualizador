@@ -1443,5 +1443,17 @@ const baseDeDatos = [
         fecha: "Sep. 22, 2026",
         tags: "Reducing Mosaic"
     },
+    { 
+        id: "SW-765", 
+        titulo: "Wanna Fuck A Schoolgirl? You're So Naughty.", 
+        poster: "https://appcine.b-cdn.net/Codegg/SW-765/sw-765.webp", 
+        bg: "https://appcine.b-cdn.net/Codegg/SW-765/vlcsnap-2026-10-21-08h15m12s379.png", 
+        video: "https://appcine.b-cdn.net/Codegg/SW-765/Sw-765.mp4",
+        preview: "https://appcine.b-cdn.net/Codegg/SW-765/SW-765-preview.mp4", 
+        estudio: "Switch",
+        actriz: "Nene Yoshitaka",
+        fecha: "Mar. 25, 2021",
+        tags: "Reducing Mosaic"
+    },
 
 ];
