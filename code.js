@@ -1467,5 +1467,17 @@ const baseDeDatos = [
         fecha: "Sep. 27, 2026",
         tags: "Trans"
     },
+    { 
+        id: "JUNY-106", 
+        titulo: "Busty Wife Is Sleeping With A Sleeping Pil", 
+        poster: "https://appcine.b-cdn.net/Codegg/JUNY-106/juny00106jp-20.jpg", 
+        bg: "https://appcine.b-cdn.net/Codegg/JUNY-106/vlcsnap-2026-10-23-10h53m59s083.png", 
+        video: "https://appcine.b-cdn.net/Codegg/JUNY-106/Juny-106.mp4",
+        preview: "https://appcine.b-cdn.net/Codegg/JUNY-106/JUNY-106-preview.mp4", 
+        estudio: "Fitch",
+        actriz: "Reina Kuroki",
+        fecha: "Sep. 05, 2023",
+        tags: "Reducing Mosaic"
+    },
 
 ];
