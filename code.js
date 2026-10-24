@@ -1479,5 +1479,17 @@ const baseDeDatos = [
         fecha: "Sep. 05, 2023",
         tags: "Reducing Mosaic"
     },
+    { 
+        id: "MOOC-029", 
+        titulo: "My Wife's Arrogant Stepdaughter, A J-pop Idol", 
+        poster: "https://appcine.b-cdn.net/Codegg/MOOC-029/667d7fcf86.webp", 
+        bg: "https://appcine.b-cdn.net/Codegg/MOOC-029/vlcsnap-2026-10-24-05h55m15s653.png", 
+        video: "https://appcine.b-cdn.net/Codegg/MOOC-029/Mooc-029.mp4",
+        preview: "https://appcine.b-cdn.net/Codegg/MOOC-029/MOOC-029-preview.mp4", 
+        estudio: "Mousozoku",
+        actriz: "Nanako",
+        fecha: "Oct. 06, 2026",
+        tags: "Trans"
+    },
 
 ];
