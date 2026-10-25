@@ -1503,5 +1503,17 @@ const baseDeDatos = [
         fecha: "Oct. 06, 2026",
         tags: "Reducing Mosaic"
     },
+    { 
+        id: "TIMD-044", 
+        titulo: "A 3-year Record Of Masochistic Training", 
+        poster: "https://appcine.b-cdn.net/Codegg/TIMD-044/0551274a9c.webp", 
+        bg: "https://appcine.b-cdn.net/Codegg/TIMD-044/vlcsnap-2026-10-25-16h57m42s591.png", 
+        video: "https://appcine.b-cdn.net/Codegg/TIMD-044/Timd-044.mp4",
+        preview: "https://appcine.b-cdn.net/Codegg/TIMD-044/TIMD-044preview.mp4", 
+        estudio: "Sanwa Shuppan",
+        actriz: "Nakazawa Churin",
+        fecha: "Oct. 09, 2026",
+        tags: "trans"
+    },
 
 ];
