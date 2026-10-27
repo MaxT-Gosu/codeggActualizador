@@ -1527,5 +1527,17 @@ const baseDeDatos = [
         fecha: "Sep. 22, 2026",
         tags: "Reducing Mosaic"
     },
+    { 
+        id: "NVH-088", 
+        titulo: "A Nymphomaniac Teacher Gives A Shut-in Student", 
+        poster: "https://appcine.b-cdn.net/Codegg/RLMP-020/64fd2b4f24.webp", 
+        bg: "https://appcine.b-cdn.net/Codegg/NVH-088/vlcsnap-2026-10-27-09h43m55s916.png", 
+        video: "https://appcine.b-cdn.net/Codegg/NVH-088/Nvh-088.mp4",
+        preview: "https://appcine.b-cdn.net/Codegg/NVH-088/NVH-088preview.mp4", 
+        estudio: "Glory Quest",
+        actriz: "Asahina Kou",
+        fecha: "Oct. 06, 2026",
+        tags: "trans"
+    },
 
 ];
