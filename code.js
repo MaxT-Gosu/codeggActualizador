@@ -1563,5 +1563,17 @@ const baseDeDatos = [
         fecha: "Oct. 20, 2026",
         tags: "Reducing Mosaic"
     },
+    { 
+        id: "ROE-569", 
+        titulo: "For 10 Years, He Has Harbored Feelings For His Mother", 
+        poster: "https://appcine.b-cdn.net/Codegg/ROE-569/roe00569jp-2.jpg", 
+        bg: "https://appcine.b-cdn.net/Codegg/ROE-569/vlcsnap-2026-10-29-18h16m12s747.png", 
+        video: "https://appcine.b-cdn.net/Codegg/ROE-569/Roe-569.mp4",
+        preview: "https://appcine.b-cdn.net/Codegg/ROE-569/Untitled%20project%202.mp4", 
+        estudio: "Madonna",
+        actriz: "Sayaka Inamori",
+        fecha: "Oct. 13, 2026",
+        tags: "Reducing Mosaic"
+    },
 
 ];
