@@ -1575,5 +1575,17 @@ const baseDeDatos = [
         fecha: "Oct. 13, 2026",
         tags: "Reducing Mosaic"
     },
+    { 
+        id: "NACT-199", 
+        titulo: "This Is Where The Real Training Begins With Her Deep Tan, 
+        poster: "https://appcine.b-cdn.net/Codegg/NACT-199/h_237nact00199jp-14.jpg", 
+        bg: "https://appcine.b-cdn.net/Codegg/NACT-199/vlcsnap-2026-10-30-06h58m53s284.png", 
+        video: "https://appcine.b-cdn.net/Codegg/NACT-199/Nact-199.mp4",
+        preview: "https://appcine.b-cdn.net/Codegg/NACT-199/NACT-199preview.mp4", 
+        estudio: "Planet Plus",
+        actriz: "Ai Aina",
+        fecha: "Oct. 20, 2026",
+        tags: "Reducing Mosaic"
+    },
 
 ];
