@@ -1623,6 +1623,18 @@ const baseDeDatos = [
         fecha: "Jun. 16, 2026",
         tags: "Reducing Mosaic"
     },
+    { 
+        id: "HMN-903", 
+        titulo: "My Former Classmate, Whom I Used To Have A Crush On", 
+        poster: "https://appcine.b-cdn.net/Codegg/HMN-903/hmn00903jp-8.jpg", 
+        bg: "https://appcine.b-cdn.net/Codegg/HMN-903/vlcsnap-2026-11-02-06h21m09s527.png", 
+        video: "https://appcine.b-cdn.net/Codegg/HMN-903/Hmn-903.mp4",
+        preview: "https://appcine.b-cdn.net/Codegg/HMN-903/Untitled%20project.mp4", 
+        estudio: "Honnaka",
+        actriz: "Rin Suzunoya",
+        fecha: "Sep. 15, 2026",
+        tags: "Reducing Mosaic"
+    },
 
 
 ];
