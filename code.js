@@ -1635,6 +1635,18 @@ const baseDeDatos = [
         fecha: "Sep. 15, 2026",
         tags: "Reducing Mosaic"
     },
+    { 
+        id: "DSOD-097", 
+        titulo: "So Pleasurable! Dripping Wet With Love Juice!", 
+        poster: "https://appcine.b-cdn.net/Codegg/DSOD-097/dsod00097jp-1.jpg", 
+        bg: "https://appcine.b-cdn.net/Codegg/DSOD-097/vlcsnap-2026-11-03-08h07m27s234.png", 
+        video: "https://appcine.b-cdn.net/Codegg/DSOD-097/Dsod-097.mp4",
+        preview: "https://appcine.b-cdn.net/Codegg/DSOD-097/Untitled%20project.mp4", 
+        estudio: "Das!",
+        actriz: "Sabasuhori Naka",
+        fecha: "2026-10-13",
+        tags: "Reducing Mosaic"
+    },
 
 
 ];
