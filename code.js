@@ -1647,6 +1647,18 @@ const baseDeDatos = [
         fecha: "2026-10-13",
         tags: "Reducing Mosaic"
     },
+    { 
+        id: "GVH-882", 
+        titulo: "Mother-son Incest", 
+        poster: "https://appcine.b-cdn.net/Codegg/GVH-882/gvh00882ps.w360.webp", 
+        bg: "https://appcine.b-cdn.net/Codegg/GVH-882/vlcsnap-2026-11-04-07h31m27s154.png", 
+        video: "https://appcine.b-cdn.net/Codegg/GVH-882/Gvh-882.mp4",
+        preview: "https://appcine.b-cdn.net/Codegg/GVH-882/Untitled%20project%202.mp4", 
+        estudio: "Glory Quest",
+        actriz: "Ninomiya Waka",
+        fecha: "2026-10-06",
+        tags: "Reducing Mosaic"
+    },
 
 
 ];
