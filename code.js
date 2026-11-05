@@ -1671,6 +1671,18 @@ const baseDeDatos = [
         fecha: "2026-10-06",
         tags: "Reducing Mosaic"
     },
+    { 
+        id: "ATID-705", 
+        titulo: "A Masochistic Female Teacher Goes Wild With Pleasure", 
+        poster: "https://appcine.b-cdn.net/Codegg/ATID-705/atid00705jp-5.jpg", 
+        bg: "https://appcine.b-cdn.net/Codegg/ATID-705/vlcsnap-2026-11-05-09h55m50s025.png", 
+        video: "https://appcine.b-cdn.net/Codegg/ATID-705/Atid-705.mp4",
+        preview: "https://appcine.b-cdn.net/Codegg/ATID-705/Untitled%20project.mp4", 
+        estudio: "Attackers",
+        actriz: "Shiromine Miu",
+        fecha: "2026-10-06",
+        tags: "Reducing Mosaic"
+    },
 
 
 ];
