@@ -1695,6 +1695,18 @@ const baseDeDatos = [
         fecha: "2026-10-13",
         tags: "Reducing Mosaic"
     },
+    { 
+        id: "ATID-716", 
+        titulo: "The Day The Man Who Kept Raping Me Was Arrested", 
+        poster: "https://appcine.b-cdn.net/Codegg/ATID-716/1.jpg", 
+        bg: "https://appcine.b-cdn.net/Codegg/ATID-716/vlcsnap-2026-11-08-09h07m09s021.png", 
+        video: "https://appcine.b-cdn.net/Codegg/ATID-716/Atid-716.mp4",
+        preview: "https://appcine.b-cdn.net/Codegg/ATID-716/Untitled%20project%203.mp4", 
+        estudio: "Attackers",
+        actriz: "Nakamori Nanami",
+        fecha: "2026-11-03",
+        tags: "Reducing Mosaic"
+    },
 
 
 ];
