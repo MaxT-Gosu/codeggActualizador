@@ -1693,7 +1693,7 @@ const baseDeDatos = [
         estudio: "K.M.Produce ",
         actriz: "Kurumi Moe",
         fecha: "2026-10-13",
-        tags: "Reducing Mosaic"
+        tags: "trans"
     },
     { 
         id: "ATID-716", 
@@ -1718,6 +1718,18 @@ const baseDeDatos = [
         actriz: "Amakawa Sora",
         fecha: "2026-07-14",
         tags: "Reducing Mosaic"
+    },
+    { 
+        id: "DSOD-079", 
+        titulo: "Two Women Whose Male Pride Is Shattered As Sex Slaves", 
+        poster: "https://appcine.b-cdn.net/Codegg/DSOD-079/dsod00079jp-1.jpg", 
+        bg: "https://appcine.b-cdn.net/Codegg/DSOD-079/dsod00079jp-4.jpg", 
+        video: "https://appcine.b-cdn.net/Codegg/DSOD-079/Dsod-079.mp4",
+        preview: "https://appcine.b-cdn.net/Codegg/DSOD-079/DSOD-079preview.mp4", 
+        estudio: "Das!",
+        actriz: "Hanamiya Hime [TS] Yuki Renka [TS]",
+        fecha: "2026-10-13",
+        tags: "trans"
     },
 
 
