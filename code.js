@@ -1707,6 +1707,18 @@ const baseDeDatos = [
         fecha: "2026-11-03",
         tags: "Reducing Mosaic"
     },
+    { 
+        id: "DSOD-028", 
+        titulo: "During A Business Trip, A Torrential Downpour Forced", 
+        poster: "https://appcine.b-cdn.net/Codegg/DSOD-028/dsod00028jp-1.jpg", 
+        bg: "https://appcine.b-cdn.net/Codegg/DSOD-028/vlcsnap-2026-11-08-18h57m20s966.png", 
+        video: "https://appcine.b-cdn.net/Codegg/DSOD-028/Dsod-028.mp4",
+        preview: "https://appcine.b-cdn.net/Codegg/DSOD-028/DSOD-028preview.mp4", 
+        estudio: "Das!",
+        actriz: "Amakawa Sora",
+        fecha: "2026-07-14",
+        tags: "Reducing Mosaic"
+    },
 
 
 ];
