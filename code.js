@@ -1731,6 +1731,18 @@ const baseDeDatos = [
         fecha: "2026-10-13",
         tags: "trans"
     },
+    { 
+        id: "DAZD-311", 
+        titulo: "If I'm Seduced By These Incredibly Lustful", 
+        poster: "https://appcine.b-cdn.net/Codegg/DAZD-311/4133419026.webp", 
+        bg: "https://appcine.b-cdn.net/Codegg/DAZD-311/vlcsnap-2026-11-10-11h19m08s550.png", 
+        video: "https://appcine.b-cdn.net/Codegg/DAZD-311/Dazd-311.mp4",
+        preview: "https://appcine.b-cdn.net/Codegg/DAZD-311/DAZD-311preview.mp4", 
+        estudio: "Das!",
+        actriz: "Varios",
+        fecha: "2026-10-13",
+        tags: "Reducing Mosaic"
+    },
 
 
 ];
