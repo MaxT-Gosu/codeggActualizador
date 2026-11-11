@@ -1743,6 +1743,18 @@ const baseDeDatos = [
         fecha: "2026-10-13",
         tags: "Reducing Mosaic"
     },
+    { 
+        id: "DSOD-117", 
+        titulo: "She Falls Into A Life Of Despair As A Cock-addicted Slut", 
+        poster: "https://appcine.b-cdn.net/Codegg/DSOD-117/dsod00117jp-7.jpg", 
+        bg: "https://appcine.b-cdn.net/Codegg/DSOD-117/dsod00117jp-1.jpg", 
+        video: "https://appcine.b-cdn.net/Codegg/DSOD-117/Dsod-117.mp4",
+        preview: "https://appcine.b-cdn.net/Codegg/DSOD-117/DSOD-117preview.mp4", 
+        estudio: "Das!",
+        actriz: "Himesaki Hana",
+        fecha: "2026-10-27",
+        tags: "Reducing Mosaic"
+    },
 
 
 ];
