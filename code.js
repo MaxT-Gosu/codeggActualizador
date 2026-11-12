@@ -1755,6 +1755,18 @@ const baseDeDatos = [
         fecha: "2026-10-27",
         tags: "Reducing Mosaic"
     },
+    { 
+        id: "EBWH-297", 
+        titulo: "This Former Private Looks Like This, But When She Takes Off", 
+        poster: "https://appcine.b-cdn.net/Codegg/EBWH-297/ebwh00297jp-1.jpg", 
+        bg: "https://appcine.b-cdn.net/Codegg/EBWH-297/vlcsnap-2026-11-12-17h38m45s166.png", 
+        video: "https://appcine.b-cdn.net/Codegg/EBWH-297/Ebwh-297.mp4",
+        preview: "https://appcine.b-cdn.net/Codegg/EBWH-297/Untitled%20project.mp4", 
+        estudio: "E-body",
+        actriz: "BD-E-BODY",
+        fecha: "2026-01-20",
+        tags: "Reducing Mosaic"
+    },
 
 
 ];
