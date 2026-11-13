@@ -1767,6 +1767,18 @@ const baseDeDatos = [
         fecha: "2026-01-20",
         tags: "Reducing Mosaic"
     },
+    { 
+        id: "EBWH-333", 
+        titulo: "I Called For A Maid And My Student, A Dark-skinned Gyaru", 
+        poster: "https://appcine.b-cdn.net/Codegg/EBWH-333/ebwh00333jp-14.jpg", 
+        bg: "https://appcine.b-cdn.net/Codegg/EBWH-333/vlcsnap-2026-11-13-11h01m48s314.png", 
+        video: "https://appcine.b-cdn.net/Codegg/EBWH-333/Ebwh-333.mp4",
+        preview: "https://appcine.b-cdn.net/Codegg/EBWH-333/Untitled%20projectasd.mp4", 
+        estudio: "E-body",
+        actriz: "Kiyomiya Toa",
+        fecha: "2026-06-16",
+        tags: "Reducing Mosaic"
+    },
 
 
 ];
