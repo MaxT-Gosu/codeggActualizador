@@ -1779,6 +1779,18 @@ const baseDeDatos = [
         fecha: "2026-06-16",
         tags: "Reducing Mosaic"
     },
+    { 
+        id: "EBWH-312", 
+        titulo: "Only Spoke To Her Briefly, But The Tall Woman Next Door", 
+        poster: "https://appcine.b-cdn.net/Codegg/EBWH-312/ebwh00312jp-7.jpg", 
+        bg: "https://appcine.b-cdn.net/Codegg/EBWH-312/vlcsnap-2026-11-15-06h24m25s906.png", 
+        video: "https://appcine.b-cdn.net/Codegg/EBWH-312/Ebwh-312.mp4",
+        preview: "https://appcine.b-cdn.net/Codegg/EBWH-312/EBWH-312preview.mp4", 
+        estudio: "E-body",
+        actriz: "Kiyomiya Toa",
+        fecha: "2026-04-21",
+        tags: "Reducing Mosaic"
+    },
 
 
 ];
