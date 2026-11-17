@@ -1803,6 +1803,18 @@ const baseDeDatos = [
         fecha: "2026-10-20",
         tags: "Reducing Mosaic"
     },
+    { 
+        id: "DOCM-003", 
+        titulo: "The Girl I Was Interested In Was Actually A Perverted", 
+        poster: "https://appcine.b-cdn.net/Codegg/DOCM-003/h_1711docm003jp-1.jpg", 
+        bg: "https://appcine.b-cdn.net/Codegg/DOCM-003/h_1711docm003jp-15.jpg", 
+        video: "https://appcine.b-cdn.net/Codegg/DOCM-003/Docm-003.mp4",
+        preview: "https://appcine.b-cdn.net/Codegg/DOCM-003/DOCM-003preview.mp4", 
+        estudio: "DOC",
+        actriz: "Tsukinoe Sui",
+        fecha: "2026-11-05",
+        tags: "Reducing Mosaic"
+    },
 
 
 ];
