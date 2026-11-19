@@ -1827,6 +1827,18 @@ const baseDeDatos = [
         fecha: "2026-11-03",
         tags: "Reducing Mosaic"
     },
+    { 
+        id: "DOKS-694", 
+        titulo: "My Beautiful Boss Gets Drunk And Turns Into A Cock", 
+        poster: "https://appcine.b-cdn.net/Codegg/DOKS-694/36doks00694jp-2.jpg", 
+        bg: "https://appcine.b-cdn.net/Codegg/DOKS-694/36doks00694jp-3.jpg", 
+        video: "https://appcine.b-cdn.net/Codegg/DOKS-694/Doks-694.mp4",
+        preview: "https://appcine.b-cdn.net/Codegg/DOKS-694/Untitled%20project5.mp4", 
+        estudio: "Office Ks",
+        actriz: "Yorimoto Shiori",
+        fecha: "2026-11-13",
+        tags: "Reducing Mosaic"
+    },
 
 
 ];
