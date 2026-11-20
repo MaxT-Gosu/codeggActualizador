@@ -1839,6 +1839,18 @@ const baseDeDatos = [
         fecha: "2026-11-13",
         tags: "Reducing Mosaic"
     },
+    { 
+        id: "AARM-374", 
+        titulo: "Practical For Masturbation! Erotic Video", 
+        poster: "https://appcine.b-cdn.net/Codegg/AARM-374/ac380d4fd8.webp", 
+        bg: "https://appcine.b-cdn.net/Codegg/AARM-374/vlcsnap-2026-11-20-06h10m25s111.png", 
+        video: "https://appcine.b-cdn.net/Codegg/AARM-374/Aarm-374.mp4",
+        preview: "https://appcine.b-cdn.net/Codegg/AARM-374/AARM-374preview.mp4", 
+        estudio: "Aroma Kikaku",
+        actriz: "Yorimoto Shiori",
+        fecha: "2026-11-10",
+        tags: "Reducing Mosaic"
+    },
 
 
 ];
