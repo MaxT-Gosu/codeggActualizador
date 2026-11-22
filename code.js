@@ -1875,6 +1875,18 @@ const baseDeDatos = [
         fecha: "2026-05-19",
         tags: "Reducing Mosaic"
     },
+    { 
+        id: "HEZ-932", 
+        titulo: "The Widow Sheds Her Mourning Clothes, Her Stepfather", 
+        poster: "https://appcine.b-cdn.net/Codegg/HEZ-932/1.jpg", 
+        bg: "https://appcine.b-cdn.net/Codegg/HEZ-932/59hez932jp-14.jpg", 
+        video: "https://appcine.b-cdn.net/Codegg/HEZ-932/Hez-932.mp4",
+        preview: "https://appcine.b-cdn.net/Codegg/HEZ-932/HEZ-932preview.mp4", 
+        estudio: "Hot Entertainment",
+        actriz: "Kawasaki Yui",
+        fecha: "2026-11-13",
+        tags: "Reducing Mosaic"
+    },
 
 
 ];
