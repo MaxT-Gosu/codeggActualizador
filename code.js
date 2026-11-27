@@ -1911,6 +1911,19 @@ const baseDeDatos = [
         fecha: "2026-11-19",
         tags: "Reducing Mosaic"
     },
+    { 
+        id: "EBWH-343", 
+        titulo: "100 Hours Until Rescue, In The Extreme Ruins", 
+        poster: "https://CINEMAX.b-cdn.net/codeGG/EBWH-343/ebwh00343jp-6.jpg", 
+        bg: "https://CINEMAX.b-cdn.net/codeGG/EBWH-343/ebwh00343jp-2.jpg", 
+        video: "https://CINEMAX.b-cdn.net/codeGG/EBWH-343/Ebwh-343.mp4",
+        preview: "https://CINEMAX.b-cdn.net/codeGG/EBWH-343/EBWH-343preview.mp4", 
+        estudio: "E-body",
+        actriz: "Kiyomiya Toa",
+        fecha: "2026-08-18",
+        tags: "Reducing Mosaic"
+    },
+
 
 
 ];
