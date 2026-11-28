@@ -1923,6 +1923,18 @@ const baseDeDatos = [
         fecha: "2026-08-18",
         tags: "Reducing Mosaic"
     },
+    { 
+        id: "EBWH-352", 
+        titulo: "Line Up With Your Dicks Out! The Teachers Will Act Like", 
+        poster: "https://CINEMAX.b-cdn.net/codeGG/EBWH-352/ebwh00352jp-3.jpg", 
+        bg: "https://CINEMAX.b-cdn.net/codeGG/EBWH-352/ebwh00352jp-6.jpg", 
+        video: "https://CINEMAX.b-cdn.net/codeGG/EBWH-352/Ebwh-352.mp4",
+        preview: "https://CINEMAX.b-cdn.net/codeGG/EBWH-352/Untitled%20project.mp4", 
+        estudio: "E-body",
+        actriz: "Kiyomiya Toa",
+        fecha: "2026-09-15",
+        tags: "Reducing Mosaic"
+    },
 
 
 
